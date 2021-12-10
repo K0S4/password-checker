@@ -84,6 +84,7 @@ body {
   border-style: solid;
   height: 2rem;
   transition: 0.2s;
+  cursor: pointer;
 }
 
 .button:hover {
